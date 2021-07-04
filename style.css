@@ -1,0 +1,40 @@
+body
+{
+  background:linear-gradient(#05ffde 0%,#cd10ee 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dotted rgb(0, 238, 255);
+  width: 350px;
+  height: 300px; 
+}
+#result_finger_name ,#result_finger_name2  
+{
+  color: rgb(5, 255, 213);
+}
+.finger_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.Fingers{
+  font-size:18px;
+  border-radius:10px;
+  letter-spacing:10px;
+}
+
+label{
+  font-size:15px;
+  color: rgb(20, 6, 214);
+  padding:6px;
+  border-radius:10px;
+  background-color: rgb(0, 183, 255);
+}
